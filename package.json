@@ -1,5 +1,5 @@
 {
-  "name": "odin-restaurant-page",
+  "name": "",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "Taran Raj <https://github.com/taranraj123>",
   "license": "ISC",
-  "description": "The Odin Project's Restaurant Page Task",
+  "description": "",
   "devDependencies": {
     "@eslint/js": "^9.10.0",
     "css-loader": "^7.1.2",
