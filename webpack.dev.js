@@ -6,12 +6,8 @@ module.exports = merge(common, {
   devtool: "inline-source-map",
   devServer: {
     watchFiles: [
-      "./src/template.html",
-      "./src/styles.css",
-      "./src/header/header.css",
-      "./src/home/home.css",
-      "./src/about/about.css",
-      "./src/menu/menu.css",
+      "./src/*.html",
+      "./src/*.css",
     ],
     static: "./dist",
   },
